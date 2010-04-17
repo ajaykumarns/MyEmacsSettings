@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: printf and flush
+# key: prf
+# binding: "keybinding"
+# --
+printf("\n${msg}%d", ${item});
+fflush(stdout);

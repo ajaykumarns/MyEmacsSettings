@@ -1,0 +1,83 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Mar 12 00:51:10 2010
+;; Desktop file format version 206
+;; Emacs version 23.1.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/ajay/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  nil
+  381
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/ajay/programming/c_cpp/os/hw3/mysched.c"
+  "mysched.c"
+  'c-mode
+  '(abbrev-mode)
+  271
+  '(59 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/ajay/programming/c_cpp/os/hw3/myqueue.h"
+  "myqueue.h"
+  'c-mode
+  '(abbrev-mode)
+  86
+  '(223 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/ajay/programming/c_cpp/os/hw2/part_3/myaio.c"
+  "myaio.c"
+  'c-mode
+  '(abbrev-mode)
+  6824
+  '(53 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/ajay/programming/c_cpp/os/hw3/mythread.h"
+  "mythread.h"
+  'c-mode
+  '(abbrev-mode)
+  4989
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/ajay/programming/c_cpp/os/hw3/myqueue.c"
+  "myqueue.c"
+  'c-mode
+  '(abbrev-mode)
+  1910
+  '(328 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+

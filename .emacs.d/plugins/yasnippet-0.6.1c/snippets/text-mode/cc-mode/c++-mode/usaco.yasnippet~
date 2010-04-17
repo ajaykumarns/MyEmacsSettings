@@ -1,0 +1,22 @@
+# -*- mode: snippet -*-
+# name: usaco
+# key: usaco
+# binding:
+# expand-env: ((some-var some-value))
+# --
+/*
+  ID: aj.fuel1
+  PROG: prog
+  LANG: C++
+*/
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <stdio.h>
+#include <string.h>
+using namespace std;
+int main(){
+  ifstream in("prog.in");
+  ofstream out("prog.out");
+  return 0;
+}
